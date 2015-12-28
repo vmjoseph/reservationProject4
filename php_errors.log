@@ -1,0 +1,220 @@
+[27-Nov-2015 21:24:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 40
+[27-Nov-2015 21:24:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 40
+[27-Nov-2015 21:24:53 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 40
+[27-Nov-2015 21:25:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 39
+[27-Nov-2015 21:25:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 39
+[27-Nov-2015 21:26:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 40
+[27-Nov-2015 21:27:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/viewReservations.php on line 40
+[28-Nov-2015 05:59:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewReservations.php on line 64
+[29-Nov-2015 04:08:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Staging/deleteRecord.php on line 16
+[29-Nov-2015 04:08:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Staging/deleteRecord.php on line 16
+[30-Nov-2015 23:52:34 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 45
+[30-Nov-2015 23:52:34 UTC] PHP Stack trace:
+[30-Nov-2015 23:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:52:34 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:45
+[30-Nov-2015 23:52:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 45
+[30-Nov-2015 23:52:34 UTC] PHP Stack trace:
+[30-Nov-2015 23:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:52:34 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:45
+[30-Nov-2015 23:52:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 47
+[30-Nov-2015 23:52:34 UTC] PHP Stack trace:
+[30-Nov-2015 23:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:52:34 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:47
+[30-Nov-2015 23:53:21 UTC] PHP Parse error:  syntax error, unexpected '$query2' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:53:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:53:32 UTC] PHP Stack trace:
+[30-Nov-2015 23:53:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:53:32 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:53:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:53:32 UTC] PHP Stack trace:
+[30-Nov-2015 23:53:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:53:32 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:53:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[30-Nov-2015 23:53:32 UTC] PHP Stack trace:
+[30-Nov-2015 23:53:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:53:32 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[30-Nov-2015 23:54:50 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:54:50 UTC] PHP Stack trace:
+[30-Nov-2015 23:54:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:54:50 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:54:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:54:50 UTC] PHP Stack trace:
+[30-Nov-2015 23:54:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:54:50 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:54:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[30-Nov-2015 23:54:50 UTC] PHP Stack trace:
+[30-Nov-2015 23:54:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:54:50 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[30-Nov-2015 23:55:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lizsan708'@'localhost' (using password: YES) in /home/ubuntu/workspace/Staging/connect.php on line 8
+[30-Nov-2015 23:55:00 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:00 UTC] PHP   2. include_once() /home/ubuntu/workspace/Staging/editRecord.php:2
+[30-Nov-2015 23:55:00 UTC] PHP   3. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/connect.php:8
+[30-Nov-2015 23:55:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:55:04 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:04 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:55:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 67
+[30-Nov-2015 23:55:04 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:04 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:67
+[30-Nov-2015 23:55:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[30-Nov-2015 23:55:04 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:04 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[30-Nov-2015 23:55:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 81
+[30-Nov-2015 23:55:18 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:18 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:81
+[30-Nov-2015 23:55:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 81
+[30-Nov-2015 23:55:18 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:18 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:81
+[30-Nov-2015 23:55:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 83
+[30-Nov-2015 23:55:18 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:18 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:83
+[30-Nov-2015 23:55:45 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/Staging/editRecord.php on line 9
+[30-Nov-2015 23:55:45 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:45 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:9
+[30-Nov-2015 23:55:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/Staging/editRecord.php on line 9
+[30-Nov-2015 23:55:45 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:45 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:9
+[30-Nov-2015 23:55:51 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 81
+[30-Nov-2015 23:55:51 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:51 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:81
+[30-Nov-2015 23:55:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 81
+[30-Nov-2015 23:55:51 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:51 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:81
+[30-Nov-2015 23:55:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 83
+[30-Nov-2015 23:55:51 UTC] PHP Stack trace:
+[30-Nov-2015 23:55:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[30-Nov-2015 23:55:51 UTC] PHP   2. mysql_fetch_assoc(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:83
+[30-Nov-2015 23:57:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Staging/editRecord.php on line 89
+[01-Dec-2015 00:01:47 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/editRecord.php on line 74
+[01-Dec-2015 00:02:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/editRecord.php on line 74
+[01-Dec-2015 00:16:01 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 83
+[01-Dec-2015 00:16:01 UTC] PHP Stack trace:
+[01-Dec-2015 00:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:16:01 UTC] PHP   2. mysql_num_fields(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:83
+[01-Dec-2015 00:16:01 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/Staging/editRecord.php on line 89
+[01-Dec-2015 00:16:01 UTC] PHP Stack trace:
+[01-Dec-2015 00:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:16:01 UTC] PHP   2. mysql_fetch_row(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:89
+[01-Dec-2015 00:16:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[01-Dec-2015 00:16:53 UTC] PHP Stack trace:
+[01-Dec-2015 00:16:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:16:53 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[01-Dec-2015 00:16:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[01-Dec-2015 00:16:53 UTC] PHP Stack trace:
+[01-Dec-2015 00:16:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:16:53 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[01-Dec-2015 00:16:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[01-Dec-2015 00:17:00 UTC] PHP Stack trace:
+[01-Dec-2015 00:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:17:00 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[01-Dec-2015 00:17:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[01-Dec-2015 00:17:00 UTC] PHP Stack trace:
+[01-Dec-2015 00:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[01-Dec-2015 00:17:00 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:33 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:33 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:33 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:33 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:33 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:40 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:40 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:55 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:55 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:55:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 03:55:55 UTC] PHP Stack trace:
+[05-Dec-2015 03:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:55:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 03:56:36 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Staging/editRecord.php on line 73
+[05-Dec-2015 03:56:36 UTC] PHP Stack trace:
+[05-Dec-2015 03:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:56:36 UTC] PHP   2. mysql_num_fields() /home/ubuntu/workspace/Staging/editRecord.php:73
+[05-Dec-2015 03:56:36 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/Staging/editRecord.php on line 79
+[05-Dec-2015 03:56:36 UTC] PHP Stack trace:
+[05-Dec-2015 03:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 03:56:36 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/Staging/editRecord.php:79
+[05-Dec-2015 04:01:05 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 04:01:05 UTC] PHP Stack trace:
+[05-Dec-2015 04:01:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 04:01:05 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 04:01:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Staging/editRecord.php on line 69
+[05-Dec-2015 04:01:05 UTC] PHP Stack trace:
+[05-Dec-2015 04:01:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/editRecord.php:0
+[05-Dec-2015 04:01:05 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Staging/editRecord.php:69
+[05-Dec-2015 08:43:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Staging/index.php on line 91
+[05-Dec-2015 09:39:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/deleteRecord.php on line 74
+[05-Dec-2015 20:05:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/Staging/connect.php on line 36
+[05-Dec-2015 20:05:53 UTC] PHP Stack trace:
+[05-Dec-2015 20:05:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/index2.php:0
+[05-Dec-2015 20:05:53 UTC] PHP   2. include_once() /home/ubuntu/workspace/Staging/index2.php:2
+[05-Dec-2015 20:05:53 UTC] PHP   3. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/connect.php:36
+[06-Dec-2015 07:48:59 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/checklogin.php on line 36
+[06-Dec-2015 07:48:59 UTC] PHP Stack trace:
+[06-Dec-2015 07:48:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checklogin.php:0
+[06-Dec-2015 07:54:43 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/checklogin.php on line 47
+[06-Dec-2015 07:54:43 UTC] PHP Stack trace:
+[06-Dec-2015 07:54:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checklogin.php:0
+[06-Dec-2015 08:33:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Staging/connect.php on line 53
+[06-Dec-2015 08:33:41 UTC] PHP Stack trace:
+[06-Dec-2015 08:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/index2.php:0
+[06-Dec-2015 08:34:35 UTC] PHP Parse error:  syntax error, unexpected '"<br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Staging/connect.php on line 54
+[06-Dec-2015 08:34:35 UTC] PHP Stack trace:
+[06-Dec-2015 08:34:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/index2.php:0
+[06-Dec-2015 08:49:02 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/Staging/index.php on line 31
+[06-Dec-2015 09:04:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Staging/connect.php on line 53
+[06-Dec-2015 09:04:31 UTC] PHP Stack trace:
+[06-Dec-2015 09:04:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/index2.php:0
+[06-Dec-2015 09:08:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/checklogin.php on line 117
+[06-Dec-2015 09:32:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Staging/parse.php on line 203
+[06-Dec-2015 09:41:05 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting '(' in /home/ubuntu/workspace/Staging/viewReservations.1.php on line 4
+[06-Dec-2015 09:41:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/Staging/viewReservations.1.php on line 3
+[06-Dec-2015 09:41:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewReservations.1.php on line 97
+[06-Dec-2015 10:22:53 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/updateTables.php on line 29
+[06-Dec-2015 10:22:53 UTC] PHP Stack trace:
+[06-Dec-2015 10:22:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/updateTables.php:0
+[11-Dec-2015 14:43:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Staging/register.php:151) in /home/ubuntu/workspace/Staging/checkregister.php on line 45
+[11-Dec-2015 14:43:16 UTC] PHP Stack trace:
+[11-Dec-2015 14:43:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checkregister.php:0
+[11-Dec-2015 14:43:16 UTC] PHP   2. header(*uninitialized*) /home/ubuntu/workspace/Staging/checkregister.php:45
+[11-Dec-2015 15:08:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewDirections.php on line 102
+[11-Dec-2015 15:08:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewDirections.php on line 100
+[11-Dec-2015 15:09:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewDirections.php on line 100
+[11-Dec-2015 15:10:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewDirections.php on line 104
+[11-Dec-2015 15:10:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Staging/viewDirections.php on line 104
+[11-Dec-2015 15:11:45 UTC] PHP Parse error:  syntax error, unexpected '$LatLng' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewDirections.php on line 103
+[11-Dec-2015 15:17:05 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewDirections.php on line 109
+[11-Dec-2015 15:29:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewDirections.php on line 12
+[11-Dec-2015 15:29:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewDirections.php on line 12
+[11-Dec-2015 15:30:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Staging/viewDirections.php on line 12
+[13-Dec-2015 20:15:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Staging/register.php:151) in /home/ubuntu/workspace/Staging/checkregister.php on line 45
+[13-Dec-2015 20:15:33 UTC] PHP Stack trace:
+[13-Dec-2015 20:15:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checkregister.php:0
+[13-Dec-2015 20:15:33 UTC] PHP   2. header(*uninitialized*) /home/ubuntu/workspace/Staging/checkregister.php:45
+[14-Dec-2015 03:44:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Staging/register.php:151) in /home/ubuntu/workspace/Staging/checkregister.php on line 45
+[14-Dec-2015 03:44:24 UTC] PHP Stack trace:
+[14-Dec-2015 03:44:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checkregister.php:0
+[14-Dec-2015 03:44:24 UTC] PHP   2. header(*uninitialized*) /home/ubuntu/workspace/Staging/checkregister.php:45
+[21-Dec-2015 01:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Staging/register.php:151) in /home/ubuntu/workspace/Staging/checkregister.php on line 45
+[21-Dec-2015 01:36:22 UTC] PHP Stack trace:
+[21-Dec-2015 01:36:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/checkregister.php:0
+[21-Dec-2015 01:36:22 UTC] PHP   2. header(*uninitialized*) /home/ubuntu/workspace/Staging/checkregister.php:45

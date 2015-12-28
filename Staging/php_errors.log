@@ -1,0 +1,181 @@
+[27-Nov-2015 21:28:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 10
+[27-Nov-2015 21:28:36 UTC] PHP Stack trace:
+[27-Nov-2015 21:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:28:36 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:10
+[27-Nov-2015 21:29:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 10
+[27-Nov-2015 21:29:58 UTC] PHP Stack trace:
+[27-Nov-2015 21:29:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:29:58 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:10
+[27-Nov-2015 21:38:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 10
+[27-Nov-2015 21:38:15 UTC] PHP Stack trace:
+[27-Nov-2015 21:38:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:38:15 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:10
+[27-Nov-2015 21:39:16 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:39:16 UTC] PHP Stack trace:
+[27-Nov-2015 21:39:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:39:16 UTC] PHP   2. mysqli_select_db(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:39:25 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:39:25 UTC] PHP Stack trace:
+[27-Nov-2015 21:39:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:39:25 UTC] PHP   2. mysqli_select_db(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:39:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:39:45 UTC] PHP Stack trace:
+[27-Nov-2015 21:39:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:39:45 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:39:45 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:39:45 UTC] PHP Stack trace:
+[27-Nov-2015 21:39:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:40:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:40:18 UTC] PHP Stack trace:
+[27-Nov-2015 21:40:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:40:18 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:40:18 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:40:18 UTC] PHP Stack trace:
+[27-Nov-2015 21:40:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:41:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:41:19 UTC] PHP Stack trace:
+[27-Nov-2015 21:41:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:41:19 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:41:19 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:41:19 UTC] PHP Stack trace:
+[27-Nov-2015 21:41:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:41:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:41:37 UTC] PHP Stack trace:
+[27-Nov-2015 21:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:41:37 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:41:37 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:41:37 UTC] PHP Stack trace:
+[27-Nov-2015 21:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:42:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:42:13 UTC] PHP Stack trace:
+[27-Nov-2015 21:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:42:13 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:42:13 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:42:13 UTC] PHP Stack trace:
+[27-Nov-2015 21:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:32 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:43:32 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:32 UTC] PHP   2. mysql_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:43:32 UTC] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:43:32 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:32 UTC] PHP   2. mysql_real_escape_string(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:22
+[27-Nov-2015 21:43:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 24
+[27-Nov-2015 21:43:32 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:32 UTC] PHP   2. mysqli_query(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:24
+[27-Nov-2015 21:43:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 27
+[27-Nov-2015 21:43:32 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:32 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:27
+[27-Nov-2015 21:43:51 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:43:51 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:51 UTC] PHP   2. mysql_select_db(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:43:51 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:43:51 UTC] PHP Stack trace:
+[27-Nov-2015 21:43:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:43:51 UTC] PHP   2. mysql_select_db(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:44:07 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:44:07 UTC] PHP Stack trace:
+[27-Nov-2015 21:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:44:07 UTC] PHP   2. mysqli_select_db(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:45:25 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:45:25 UTC] PHP Stack trace:
+[27-Nov-2015 21:45:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:45:39 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:45:39 UTC] PHP Stack trace:
+[27-Nov-2015 21:45:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:46:00 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:46:00 UTC] PHP Stack trace:
+[27-Nov-2015 21:46:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:47:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'test' in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 11
+[27-Nov-2015 21:47:23 UTC] PHP Stack trace:
+[27-Nov-2015 21:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:47:23 UTC] PHP   2. mysqli_connect(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:11
+[27-Nov-2015 21:47:23 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:47:23 UTC] PHP Stack trace:
+[27-Nov-2015 21:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:48:00 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:48:00 UTC] PHP Stack trace:
+[27-Nov-2015 21:48:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:48:23 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:48:23 UTC] PHP Stack trace:
+[27-Nov-2015 21:48:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:48:52 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:48:52 UTC] PHP Stack trace:
+[27-Nov-2015 21:48:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:49:59 UTC] PHP Fatal error:  Call to a member function select_db() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:49:59 UTC] PHP Stack trace:
+[27-Nov-2015 21:49:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:52:16 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:52:16 UTC] PHP Stack trace:
+[27-Nov-2015 21:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:52:16 UTC] PHP   2. mysqli_select_db(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:12
+[27-Nov-2015 21:52:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:52:16 UTC] PHP Stack trace:
+[27-Nov-2015 21:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:52:16 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:52:16 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:52:16 UTC] PHP Stack trace:
+[27-Nov-2015 21:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:52:30 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 21
+[27-Nov-2015 21:52:30 UTC] PHP Stack trace:
+[27-Nov-2015 21:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:52:30 UTC] PHP   2. mysqli_real_escape_string(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:21
+[27-Nov-2015 21:52:30 UTC] PHP Fatal error:  Call to undefined function mysqil_real_escape_string() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 22
+[27-Nov-2015 21:52:30 UTC] PHP Stack trace:
+[27-Nov-2015 21:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:53:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 24
+[27-Nov-2015 21:53:51 UTC] PHP Stack trace:
+[27-Nov-2015 21:53:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:53:51 UTC] PHP   2. mysqli_query(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:24
+[27-Nov-2015 21:53:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 27
+[27-Nov-2015 21:53:51 UTC] PHP Stack trace:
+[27-Nov-2015 21:53:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:53:51 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:27
+[27-Nov-2015 21:55:11 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 24
+[27-Nov-2015 21:55:11 UTC] PHP Stack trace:
+[27-Nov-2015 21:55:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:55:36 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 23
+[27-Nov-2015 21:55:36 UTC] PHP Stack trace:
+[27-Nov-2015 21:55:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:56:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 25
+[27-Nov-2015 21:56:23 UTC] PHP Stack trace:
+[27-Nov-2015 21:56:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 21:57:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 11
+[27-Nov-2015 21:58:19 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 12
+[27-Nov-2015 21:58:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 25
+[27-Nov-2015 21:58:48 UTC] PHP Stack trace:
+[27-Nov-2015 21:58:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:01:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 25
+[27-Nov-2015 22:01:34 UTC] PHP Stack trace:
+[27-Nov-2015 22:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:01:34 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:25
+[27-Nov-2015 22:01:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 27
+[27-Nov-2015 22:01:42 UTC] PHP Stack trace:
+[27-Nov-2015 22:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:01:42 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/Staging/logintesting/checklogin.php:27
+[27-Nov-2015 22:02:10 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 34
+[27-Nov-2015 22:02:10 UTC] PHP Stack trace:
+[27-Nov-2015 22:02:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:02:24 UTC] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ubuntu/workspace/Staging/logintesting/login_success.php on line 5
+[27-Nov-2015 22:02:24 UTC] PHP Stack trace:
+[27-Nov-2015 22:02:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/login_success.php:0
+[27-Nov-2015 22:02:49 UTC] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ubuntu/workspace/Staging/logintesting/login_success.php on line 5
+[27-Nov-2015 22:02:49 UTC] PHP Stack trace:
+[27-Nov-2015 22:02:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/login_success.php:0
+[27-Nov-2015 22:02:59 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 34
+[27-Nov-2015 22:02:59 UTC] PHP Stack trace:
+[27-Nov-2015 22:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:03:40 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 35
+[27-Nov-2015 22:03:40 UTC] PHP Stack trace:
+[27-Nov-2015 22:03:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:04:04 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/ubuntu/workspace/Staging/logintesting/checklogin.php on line 35
+[27-Nov-2015 22:04:04 UTC] PHP Stack trace:
+[27-Nov-2015 22:04:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/checklogin.php:0
+[27-Nov-2015 22:05:24 UTC] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ubuntu/workspace/Staging/logintesting/login_success.php on line 5
+[27-Nov-2015 22:05:24 UTC] PHP Stack trace:
+[27-Nov-2015 22:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Staging/logintesting/login_success.php:0
+[28-Nov-2015 08:23:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Staging/logintesting/connectivity-sign-up.php on line 12
